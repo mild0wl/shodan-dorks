@@ -1,3 +1,5 @@
+refer: https://securitytrails.com/blog/top-shodan-dorks
+
 **Hostname**  
 hostname:example.com  
 hostname:subdomain.example.com  
